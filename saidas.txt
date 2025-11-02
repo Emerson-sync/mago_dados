@@ -1,0 +1,12 @@
+
+df['qtdePontos'].describe()
+count     4195.000000
+mean       440.519666
+std       1223.968828
+min          0.000000
+25%          8.000000
+50%         66.000000
+75%        350.000000
+max      25086.000000
+Name: qtdePontos, dtype: float64
+
